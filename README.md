@@ -1,4 +1,4 @@
-**World Cross Relay**
+# World Cross Relay
 
 1. **Teams**
     1. Maximum of 15 rostered athletes
@@ -159,11 +159,15 @@
 </table>
 
 
-**<span style="text-decoration:underline;">KOM</span>**
+### KOM
 
-**Grade A: **5**
-**Grade B: **3**
-**Grade C: **1**
+**Grade A: 5 points**
+
+**Grade B: 3 points**
+
+**Grade C: 1 points**
+
 ---
-**Fastest Kick: **5**
-**Fastest Lap: **5**
+**Fastest Kick: 5 points**
+
+**Fastest Lap: 5 points**
