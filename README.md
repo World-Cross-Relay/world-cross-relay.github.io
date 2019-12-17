@@ -14,26 +14,26 @@
     11. To avoid confusion, maximum of 3 jersey designs per season
     12. Athlete singlets and shorts must match; shoes and socks can be personalized
 2. **Format**
-    13. Relay: Teams of 5-7 runners with 2-3 running at a time, can alternate in and out for laps of 2k - 4k length
-    14. Athletes pass RFID bracelet as “baton” when swapping legs
-    15. Potential designated positions with different rules for when they can be run
-    16. 10k minimum, 30k maximum (approx. 30 - 90 min)
-    17. Duel meets that allow more athletes to compete from each team
-    18. Purpose built courses with varying surfaces, winding corners, hills, technical footing, and spectator areas; large loops
-    19. Live telemetry on each athlete - splits, current HR, cadence
-    20. Small amount of athletes competing at once; less than 30
-    21. Penalties for having more athlete swaps
-    22. Varying relay leg length options
-    23. Each athlete assigned unique number consistent across races
+    1. Relay: Teams of 5-7 runners with 2-3 running at a time, can alternate in and out for laps of 2k - 4k length
+    2. Athletes pass RFID bracelet as “baton” when swapping legs
+    3. Potential designated positions with different rules for when they can be run
+    4. 10k minimum, 30k maximum (approx. 30 - 90 min)
+    5. Duel meets that allow more athletes to compete from each team
+    6. Purpose built courses with varying surfaces, winding corners, hills, technical footing, and spectator areas; large loops
+    7. Live telemetry on each athlete - splits, current HR, cadence
+    8. Small amount of athletes competing at once; less than 30
+    9. Penalties for having more athlete swaps
+    10. Varying relay leg length options
+    11. Each athlete assigned unique number consistent across races
 
 
 3. **Scoring**
-    24. Most points win; weighted heavily toward higher finishes
-    25. Points for fastest kick, fastest lap / sectors (e.g. KOTM’s)
-    26. Points accumulate over season for teams and individuals, awarding consistency
+    1. Most points win; weighted heavily toward higher finishes
+    2. Points for fastest kick, fastest lap / sectors (e.g. KOTM’s)
+    3. Points accumulate over season for teams and individuals, awarding consistency
 
-**_Points Table_**
 
+### Points Table
 
 <table>
   <tr>
