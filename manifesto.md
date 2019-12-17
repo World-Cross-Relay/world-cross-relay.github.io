@@ -1,6 +1,6 @@
 # Cross Country can be popular - an attempt at bringing excitement to the world’s most boring sport with World Cross Relay
 
-** by Remington Breeze ** 
+**by Remington Breeze** 
 
 World Cross Relay (henceforth referred to as WXR) aims to bring the sport of Cross Country running to a larger, global audience and in the process 1) better reward athletes who have dedicated their lives to running, 2) provide better entertainment for fans of running, and 3) offer an alternative pathway for runners who’s options have run out but want to continue to pursue cross country for the joy of running and team involvement. Cross Country is a team sport, something that is not appreciated enough in both Athletics / Track and Field, and in current Cross Country competition formats. Team competition is arguably the most entertaining portion of any sport for both competitors and spectators, and by failing to take advantage of this fact, Cross Country has been relegated to a sport reserved only for amateur student-athletes, small clubs with poor funding, and rare international competition with low viewership. While professional runners do exist, professional Cross Country runners do not, and the world’s best runners are compensated as a B or C league professional athlete would be in the world’s most popular sports. 
 
