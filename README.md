@@ -1,5 +1,7 @@
 # World Cross Relay
 
+![full-logo](./assets/full-logo.png)
+
 1. **Teams**
     1. Maximum of 15 rostered athletes
     2. One optional title sponsor
