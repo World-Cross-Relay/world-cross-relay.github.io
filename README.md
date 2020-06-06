@@ -1,6 +1,6 @@
 # World Cross Relay
 
-![full-logo](./assets/full-logo.png)
+![full-logo](./assets/logo-full.png)
 
 1. **Teams**
     1. Maximum of 15 rostered athletes
